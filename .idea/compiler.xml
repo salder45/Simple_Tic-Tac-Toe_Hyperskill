@@ -19,6 +19,10 @@
       <module name="Simple_Tic-Tac-Toe.Topics-Processing_strings-Piece_of_alphabet.main" target="8" />
       <module name="Simple_Tic-Tac-Toe.Topics-Processing_strings-The_lucky_ticket.main" target="8" />
       <module name="Simple_Tic-Tac-Toe.Topics-Processing_strings-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Secondary_constructor-Frozen_desserts.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Secondary_constructor-Spot_the_error.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Secondary_constructor-Theory.main" target="8" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Secondary_constructor-This_keyword.main" target="8" />
       <module name="Simple_Tic-Tac-Toe.util.main" target="8" />
     </bytecodeTargetLevel>
   </component>
